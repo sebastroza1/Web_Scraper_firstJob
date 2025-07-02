@@ -45,6 +45,11 @@ python front.py
 * Haz clic en cualquier link para abrir la oferta en tu navegador predeterminado.
 * Al buscar, también se actualiza `Listado_Trabajos.json` en el directorio.
 
+
+![image](https://github.com/user-attachments/assets/be008e2e-2950-4518-9a66-58a32cabb97b)
+
+
+
 **3. Uso como Aplicación Web (Flask)**
 Levanta el servidor web local con:
 
@@ -58,6 +63,10 @@ python app.py
 * Cada tarjeta incluye **Título**, **Empresa**, **Ubicación** y un enlace para ver más detalles en una nueva pestaña.
 
 ---
+
+![image](https://github.com/user-attachments/assets/7c29c0ad-e968-4e83-bb35-4439d23655f7)
+
+
 
 ## 📂 Estructura de Archivos
 
