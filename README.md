@@ -26,6 +26,10 @@ python scraper.py
       save_to_json(jobs)
   ```
 
+![image](https://github.com/user-attachments/assets/a6d8fe38-2fb1-40fb-9b2c-52b87dacd130)
+
+
+
 **2. Uso con Interfaz de Escritorio (Tkinter)**
 Inicia la aplicación de escritorio con:
 
